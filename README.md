@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Sunil Kumar Mishra</h1>
-<h3 align="center">A passionate Node.js developer from India</h3>
+<h1 align="center">Hi 👋, I'm Satyajit sahu</h1>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Next.js**
 
-- 📫 How to reach me **sunil.crud@gmail.com**
+- 📫 How to reach me **satyajitsahu2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
