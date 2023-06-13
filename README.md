@@ -21,14 +21,13 @@ sahu-486b4b224)" target="_blank" rel="noreferrer">
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/ruby-programming-language.png" alt="Ruby on Rails" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React.js" width="40" height="40"/>
-  <img src="https://img.icons8.com/fluency/48/000000/next-js.png" alt="Next.js" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/postgresql.png" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="40" height="40"/>
-  <img src="https://img.icons8.com/dusk/48/000000/postman-api.png" alt="Postman" width="40" height="40"/>
+  <i class="fab fa-ruby fa-2x"></i>
+  <i class="fab fa-react fa-2x"></i>
+  <i class="fab fa-js fa-2x"></i>
+  <i class="fab fa-docker fa-2x"></i>
+  <i class="fab fa-postgresql fa-2x"></i>
+  <i class="fab fa-tailwind fa-2x"></i>
+  <i class="fab fa-postman fa-2x"></i>
 </p>
 
 <!-- Example unique design showcasing the icons -->
