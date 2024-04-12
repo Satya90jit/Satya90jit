@@ -32,11 +32,6 @@
   </a>
 </p>
 
-<!-- Unique Design Section -->
-<div align="center">
-  <img src="https://example.com/unique-design.png" alt="Unique Design" width="800" height="400"/>
-</div>
-
 <!-- About Me Section -->
 <h2 align="center">About Me</h2>
 <p align="center">
