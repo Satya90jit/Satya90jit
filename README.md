@@ -44,13 +44,17 @@
 
 <!-- Engineering Pillars -->
 <h2 align="center">🧭 Engineering Focus</h2>
+
 <div align="center">
-![Clean Code](https://img.shields.io/badge/Clean%20Code-SOLID%20%7C%20DRY%20%7C%20Refactoring-2ea44f?style=for-the-badge&logo=readthedocs)  
-![Design Patterns](https://img.shields.io/badge/Design%20Patterns-Strategy%20%7C%20Factory%20%7C%20Observer%20%7C%20Adapter-blueviolet?style=for-the-badge&logo=azurepipelines)  
+
+![Clean Code](https://img.shields.io/badge/Clean%20Code-SOLID%20%7C%20DRY%20%7C%20Refactoring-2ea44f?style=for-the-badge&logo=readthedocs) 
+![Design Patterns](https://img.shields.io/badge/Design%20Patterns-Strategy%20%7C%20Factory%20%7C%20Observer%20%7C%20Adapter-blueviolet?style=for-the-badge&logo=azurepipelines) 
 ![System Design](https://img.shields.io/badge/System%20Design-Scalability%20%7C%20Caching%20%7C%20Queues%20%7C%20DB%20Modeling-orange?style=for-the-badge&logo=databricks)  
-![Testing](https://img.shields.io/badge/Testing-Jest%20%7C%20React%20Testing%20Library-red?style=for-the-badge&logo=jest)  
-![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions%20%7C%20Vercel-218bff?style=for-the-badge&logo=githubactions)  
+
+![Testing](https://img.shields.io/badge/Testing-Jest%20%7C%20React%20Testing%20Library-red?style=for-the-badge&logo=jest) 
+![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions%20%7C%20Vercel-218bff?style=for-the-badge&logo=githubactions) 
 ![Performance](https://img.shields.io/badge/Performance-Profiling%20%7C%20Memoization%20%7C%20Code--Splitting-brightgreen?style=for-the-badge&logo=googlechrome)  
+
 </div>
 
 ---
