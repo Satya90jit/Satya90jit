@@ -22,21 +22,23 @@
 
 ---
 
-<!-- Stats (add count_private/include_all_commits; replace domain if self-hosted) -->
+<!-- Stats (add count_private/include_all_commits; replace domain if self-hosted) 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Satya90jit&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satya90jit&layout=compact&theme=radical&hide_progress=false" height="180"/>
 </p>
+-->
 
 <!-- Streak -->
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Satya90jit&theme=radical&hide_border=true" />
 </p>
 
-<!-- Activity Graph -->
+<!-- Activity Graph 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Satya90jit&theme=tokyonight" />
 </p>
+-->
 
 ---
 
@@ -53,7 +55,7 @@
 
 ---
 
-<!-- About Me -->
+<!-- About Me 
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
@@ -64,6 +66,7 @@
 </p>
 
 ---
+-->
 
 <!-- Quote -->
 <h2 align="center">💡 Quote of the Day</h2>
@@ -73,13 +76,14 @@
 
 ---
 
-<!-- Trophies -->
+<!-- Trophies 
 <h2 align="center">🏆 GitHub Trophies</h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Satya90jit&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </p>
 
 ---
+-->
 
 <!-- Connect -->
 <h3 align="center">🌐 Connect with me</h3>
