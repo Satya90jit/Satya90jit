@@ -31,7 +31,7 @@
 
 <!-- Streak -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Satya90jit&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Satya90jit&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" />
 </p>
 
 <!-- Activity Graph 
