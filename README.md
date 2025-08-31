@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Satyajit Sahu</h1>
 <h3 align="center">🚀 Full Stack Developer | React • Next.js • Node.js • MongoDB</h3>
 
-<!-- Core Skills Badges -->
+<!-- Core Stack -->
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend-React-blue?logo=react" />
   <img src="https://img.shields.io/badge/Framework-Next.js-black?logo=next.js" />
@@ -12,12 +12,20 @@
   <img src="https://img.shields.io/badge/Styling-TailwindCSS-38B2AC?logo=tailwindcss" />
 </p>
 
+<!-- Also worked with -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Also-Angular-DD0031?logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Also-TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Also-PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Also-Docker-2496ED?logo=docker&logoColor=white" />
+</p>
+
 ---
 
-<!-- Stats Section -->
+<!-- Stats (add count_private/include_all_commits; replace domain if self-hosted) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Satya90jit&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satya90jit&layout=compact&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Satya90jit&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satya90jit&layout=compact&theme=radical&hide_progress=false" height="180"/>
 </p>
 
 <!-- Streak -->
@@ -32,14 +40,28 @@
 
 ---
 
+<!-- Engineering Pillars -->
+<h2 align="center">🧭 Engineering Focus</h2>
+
+<p align="center">
+  ✅ <b>Clean Code</b> (SOLID, DRY, pragmatic refactoring) •
+  ✅ <b>Design Patterns</b> (Strategy, Factory, Observer, Adapter) •
+  ✅ <b>System Design</b> (scalability, caching, queues, DB modeling) •
+  ✅ <b>Testing</b> (Jest, React Testing Library) •
+  ✅ <b>CI/CD</b> (GitHub Actions, Vercel) •
+  ✅ <b>Performance</b> (profiling, memoization, code-splitting)
+</p>
+
+---
+
 <!-- About Me -->
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-✨ A curious learner and passionate developer who enjoys solving <b>complex problems with clean code</b>  
-🎸 Guitar enthusiast • 🏸 Badminton player • 💃 Dance lover • 📖 Philosophy & life reader  
-🌱 Currently sharpening skills in <b>Node.js & MongoDB</b>  
-💡 Always exploring new technologies and ideas  
+✨ Curious builder who enjoys tackling <b>complex problems with clean, maintainable code</b>.<br/>
+🎸 Guitar • 🏸 Badminton • 💃 Dance • 📖 Philosophy & lifelong learning<br/>
+🌱 Currently sharpening <b>Node.js & MongoDB</b> and architecting better systems.<br/>
+📫 Reach me: <b>satyajitsahu2002@gmail.com</b>
 </p>
 
 ---
@@ -67,3 +89,11 @@
   <a href="https://github.com/Satya90jit"><img src="https://img.icons8.com/ios-glyphs/48/github.png" alt="GitHub"/></a>
   <a href="https://dev.to/satya90jit"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" width="40" alt="Dev.to"/></a>
 </p>
+
+<!-- Optional: Pinned project cards -->
+<!--
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Satya90jit&repo=<your-repo>&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Satya90jit&repo=<your-repo-2>&theme=radical" />
+</p>
+-->
